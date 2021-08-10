@@ -1,6 +1,6 @@
 # node-video-streaming
 
-Simple RESTful application used to upload and stream videos, developed with Node.js and TypeScript. The goal of this project is to understand how streaming platform works, and how to manage videos in the server.
+A simple RESTful application used to stream videos, developed with Node.js and TypeScript. The project was created to better understand how video streaming platform works, and how to apply that to Node.
 
 ## License
 
